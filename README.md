@@ -135,9 +135,8 @@ const kishan = {
 
 I'm actively looking for **internship / full-time SWE roles**. If you're hiring or want to collaborate, let's talk!
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/kishan-kushwaha-429380255)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-kushwaha-429380255/)
 [![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishan4906@gmail.com)
-
 </div>
 
 ---
