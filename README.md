@@ -80,7 +80,7 @@ const kishan = {
 
 | Project | Description | Tech | Live |
 |---|---|---|---|
-| 🏆 [Online Judge Platform(algoforge)](https://github.com/kishan4906E/algoforge) | LeetCode-style platform with code execution, test cases & verdicts | MERN, Docker, Judge0 | [Demo](https://your-oj.vercel.app) |
+| 🏆 [Online Judge Platform(algoforge)](https://github.com/kishan4906/algoforge) | LeetCode-style platform with code execution, test cases & verdicts | MERN, Docker, Judge0 | [Demo](https://your-oj.vercel.app) |
 | 💬 [Live Chat App](https://github.com/kishan4906/live-chat) | Real-time messaging with rooms, typing indicators & auth | Node.js, Socket.IO, React | [Demo](https://your-chat.vercel.app) |
 | 💰 [Expense Tracker](https://github.com/kishan4906/expense-tracker) | Personal finance tracker with charts & category breakdown | MERN, Chart.js | [Demo](https://your-tracker.vercel.app) |
 | 🔌 [TCP Chat Server](https://github.com/kishan4906/tcp-chat-server) | High-performance chat server using Linux epoll for non-blocking I/O multiplexing | C++17, epoll, POSIX Sockets | — |
