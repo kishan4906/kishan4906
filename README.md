@@ -24,7 +24,7 @@ const kishan = {
   role:        "Aspiring Software Engineer",
   focus:       ["Backend Engineering", "System Design", "REST APIs", "DSA"],
   stack:       ["MERN Stack", "C++", "Systems Programming", "Linux"],
-    systems:  ["TCP/IP", "epoll", "POSIX Sockets", "Non-blocking I/O"],
+  systems:  ["TCP/IP", "epoll", "POSIX Sockets", "Non-blocking I/O"],
   currentlyBuilding: "Chess coach (CORVUS)",
   learning:    ["TypeScript", "Redis", "Docker", "System Design"],
   goal:        "Land a software engineering role at a top product company",
