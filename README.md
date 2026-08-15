@@ -25,7 +25,7 @@ const kishan = {
   focus:       ["Backend Engineering", "System Design", "REST APIs", "DSA"],
   stack:       ["MERN Stack", "C++", "Systems Programming", "Linux"],
     systems:  ["TCP/IP", "epoll", "POSIX Sockets", "Non-blocking I/O"],
-  currentlyBuilding: "Online Judge Platform (OJ)",
+  currentlyBuilding: "Chess coach (CORVUS)",
   learning:    ["TypeScript", "Redis", "Docker", "System Design"],
   goal:        "Land a software engineering role at a top product company",
   funFact: "I enjoy building things close to the metal — from TCP servers to web apps",
