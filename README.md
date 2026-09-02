@@ -5,7 +5,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishan-kushwaha-429380255)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kishan4906)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishan4906@gmail.com)
 
@@ -110,15 +109,6 @@ const kishan = {
 
 ---
 
-## 🏆 LeetCode Stats
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kishan4906?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/kishan4906)
-
-</div>
-
----
 
 ## 📚 Currently Learning
 
